@@ -1,0 +1,15 @@
+{
+	"description": "personal emotional logs",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx98b84857eb4d72eb",
+	"projectname": "fannie-house",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
